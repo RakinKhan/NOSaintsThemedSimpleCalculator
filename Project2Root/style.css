@@ -1,0 +1,42 @@
+body {
+  background-image: url('wc1771200.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+}
+
+
+
+.calc {
+  background-color: #d3bc8d;
+  width:400px;
+  height:auto;
+  margin:auto;
+  padding: 10px;
+}
+
+.text {
+  width:100%;
+  font-size: 22px;
+  font-weight: bold;
+  margin-top: 20px;
+  border-radius: 5px;
+}
+
+.button {
+  color: white;
+  background-color: black;
+  width: 91px;
+  padding: 10px;
+  font-size:20px;
+  font-weight: bold;
+
+}
+
+#del {
+  width: 100%;
+  background-color: black;
+  color: white;
+}
